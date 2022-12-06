@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FindTheMinimumDistanceBetweenTheGivenTwoWords.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReverseWordsInAGivenString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReverseWordsInAGivenString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RomanNumberToInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RomanNumberToInteger.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -50,7 +54,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LongestCommonPrefixKt">
+  <component name="RunManager" selected="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt">
+    <configuration name="FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
+      <module name="CodeSolutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestCommonPrefixKt" />
       <module name="CodeSolutions" />
@@ -65,8 +76,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RomanNumberToIntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomanNumberToIntegerKt" />
+      <module name="CodeSolutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
+        <item itemvalue="Kotlin.RomanNumberToIntegerKt" />
         <item itemvalue="Kotlin.LongestCommonPrefixKt" />
         <item itemvalue="Kotlin.ReverseWordsInAGivenStringKt" />
       </list>

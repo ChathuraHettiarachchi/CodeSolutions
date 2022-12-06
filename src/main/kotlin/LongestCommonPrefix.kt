@@ -1,3 +1,14 @@
+/**
+ * Problem Statement: Given a set of strings, find the longest common prefix.
+ * Examples:
+ *
+ *
+ * Input: {"geeksforgeeks", "geeks", "geek", "geezer"}
+ * Output: "gee"
+ *
+ * Input: {"apple", "ape", "april"}
+ * Output: "ap"
+ */
 fun main() {
     val strs: Array<String> = arrayOf("geeksforgeeks", "geeks", "gek", "geezer")
     println(longest_common_prefix_using_sorting(strs))
