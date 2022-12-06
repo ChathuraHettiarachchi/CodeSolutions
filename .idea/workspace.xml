@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FindTheMinimumDistanceBetweenTheGivenTwoWords.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReverseWordsInAGivenString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReverseWordsInAGivenString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RomanNumberToInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RomanNumberToInteger.kt" afterDir="false" />
-    </list>
+    <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +47,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt">
+  <component name="RunManager" selected="Kotlin.EncryptStringKt">
+    <configuration name="EncryptStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EncryptStringKt" />
+      <module name="CodeSolutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
       <module name="CodeSolutions" />
@@ -85,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EncryptStringKt" />
         <item itemvalue="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
         <item itemvalue="Kotlin.RomanNumberToIntegerKt" />
         <item itemvalue="Kotlin.LongestCommonPrefixKt" />
