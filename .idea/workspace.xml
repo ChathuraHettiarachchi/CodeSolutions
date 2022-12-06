@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FindAnEqualPointInAStringOfBrackets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CheckIfTwoGivenStringsAreIsomorphicToEachOther.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeSolutions/META-INF/CodeSolutions.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FindAnEqualPointInAStringOfBracketsKt">
+  <component name="RunManager" selected="Kotlin.CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt">
+    <configuration name="CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" />
+      <module name="CodeSolutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EncryptStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EncryptStringKt" />
       <module name="CodeSolutions" />
@@ -73,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefixKt" />
-      <module name="CodeSolutions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RomanNumberToIntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RomanNumberToIntegerKt" />
       <module name="CodeSolutions" />
@@ -89,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" />
         <item itemvalue="Kotlin.FindAnEqualPointInAStringOfBracketsKt" />
         <item itemvalue="Kotlin.EncryptStringKt" />
         <item itemvalue="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
         <item itemvalue="Kotlin.RomanNumberToIntegerKt" />
-        <item itemvalue="Kotlin.LongestCommonPrefixKt" />
       </list>
     </recent_temporary>
   </component>
