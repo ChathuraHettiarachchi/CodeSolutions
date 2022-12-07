@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramToValidateAnIpAddress.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LicenseKeyFormatting.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ProgramToValidateAnIpAddressKt">
+  <component name="RunManager" selected="Kotlin.LicenseKeyFormattingKt">
     <configuration name="CheckIfAStringCanBeObtainedByRotatingAnotherString2PlacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckIfAStringCanBeObtainedByRotatingAnotherString2PlacesKt" />
       <module name="CodeSolutions" />
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAnEqualPointInAStringOfBracketsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAnEqualPointInAStringOfBracketsKt" />
+    <configuration name="LicenseKeyFormattingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LicenseKeyFormattingKt" />
       <module name="CodeSolutions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LicenseKeyFormattingKt" />
         <item itemvalue="Kotlin.ProgramToValidateAnIpAddressKt" />
         <item itemvalue="Kotlin.CheckIfAStringCanBeObtainedByRotatingAnotherString2PlacesKt" />
         <item itemvalue="Kotlin.CheckIfGivenStringIsPangramOrNotKt" />
         <item itemvalue="Kotlin.CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" />
-        <item itemvalue="Kotlin.FindAnEqualPointInAStringOfBracketsKt" />
       </list>
     </recent_temporary>
   </component>
