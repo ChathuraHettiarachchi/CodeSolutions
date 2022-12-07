@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="736d9110-57aa-4c84-ad67-61188eb17a8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CheckIfTwoGivenStringsAreIsomorphicToEachOther.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CheckIfGivenStringIsPangramOrNot.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.20/kotlin-stdlib-common-1.7.20-sources.jar!/kotlin/CharCode.kt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/chettiarachchi/Documents/Try Outs/Kotlin/CodeSolutions/src/main/kotlin"
+    "last_opened_file_path": "/Users/chettiarachchi/Documents/Try Outs/Kotlin/CodeSolutions/src/main/kotlin",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,7 +54,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt">
+  <component name="RunManager" selected="Kotlin.CheckIfGivenStringIsPangramOrNotKt">
+    <configuration name="CheckIfGivenStringIsPangramOrNotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckIfGivenStringIsPangramOrNotKt" />
+      <module name="CodeSolutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" />
       <module name="CodeSolutions" />
@@ -79,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumberToIntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomanNumberToIntegerKt" />
-      <module name="CodeSolutions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CheckIfGivenStringIsPangramOrNotKt" />
         <item itemvalue="Kotlin.CheckIfTwoGivenStringsAreIsomorphicToEachOtherKt" />
         <item itemvalue="Kotlin.FindAnEqualPointInAStringOfBracketsKt" />
         <item itemvalue="Kotlin.EncryptStringKt" />
         <item itemvalue="Kotlin.FindTheMinimumDistanceBetweenTheGivenTwoWordsKt" />
-        <item itemvalue="Kotlin.RomanNumberToIntegerKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,5 +110,9 @@
       <updated>1670356445691</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
